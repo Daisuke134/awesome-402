@@ -62,6 +62,7 @@
 
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
+- [Penny Press](https://www.pennypress.org) - Essays on freedom, economics and philosophy; free for humans, pay-per-read for AI agents via x402 micropayments (USDC on Base).
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
 
 ## Explorers
